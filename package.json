@@ -1,0 +1,19 @@
+{
+  "name": "nodejsbase",
+  "version": "1.0.0",
+  "description": "node js base",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Sergey Yakovenko <root@mail.ru>",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
